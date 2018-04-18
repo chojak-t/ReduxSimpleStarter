@@ -11,7 +11,7 @@ const App = function() {
 }
 */
 
-//arrow function
+//arrow functiongg
 const App = () => {
   return (
     <div>
